@@ -1,0 +1,1 @@
+const e={key:"v-d0379bda",path:"/Front-end%20Notes/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640673763e3,contributors:[{name:"Jack Zeng",email:"yixiaozeng0208@outlook.com",commits:2}]},filePathRelative:"Front-end Notes/README.md"};export{e as data};

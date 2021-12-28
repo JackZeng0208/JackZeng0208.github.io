@@ -1,0 +1,1 @@
+const t={key:"v-c2d0f2fc",path:"/zh/Front-end%20Notes/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640675975e3,contributors:[{name:"Jack Zeng",email:"yixiaozeng0208@outlook.com",commits:1}]},filePathRelative:"zh/Front-end Notes/README.md"};export{t as data};
